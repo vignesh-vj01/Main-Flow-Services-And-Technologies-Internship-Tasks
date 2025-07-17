@@ -37,7 +37,7 @@ Task 1/
 ```
 
 ## Live Demo
-Check out the live version of the landing page here: [Live Site](https://.netlify.app/)
+Check out the live version of the landing page here: [Live Site](https://blooming-fiesta.netlify.app/)
 
 ## Future Improvements
 - Add JavaScript for interactivity
