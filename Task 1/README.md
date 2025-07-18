@@ -19,7 +19,7 @@ This project is a simple and responsive landing page built using **HTML** and **
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Main-Flow-Services-And-Technologies-Internship-Tasks.git
+   git clone https://github.com/vignesh-vj01/Main-Flow-Services-And-Technologies-Internship-Tasks.git
    ```
 2. Navigate to the project folder:
    ```sh
