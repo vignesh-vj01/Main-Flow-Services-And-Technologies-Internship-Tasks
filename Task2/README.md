@@ -41,7 +41,7 @@ Task 2/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/harshikab2112/Main-Flow-Services-And-Technologies-Internship-Tasks.git
+   git clone https://github.com/vignesh-vj01/Main-Flow-Services-And-Technologies-Internship-Tasks.git
    ```
 
 2. **Move to the project directory**
