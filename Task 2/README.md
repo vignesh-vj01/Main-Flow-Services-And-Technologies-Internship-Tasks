@@ -87,18 +87,23 @@ Task 2/
 Here are some screenshots of the project:
 
 ### Main Page
+
 ![Main Page](Screenshots/Screenshot1.png)
 
 ### Login Page
+
 ![Login Page](Screenshots/Screenshot2.png)
 
 ### Signup Page
+
 ![Signup Page](Screenshots/Screenshot3.png)
 
 ### Welcome Dashboard
+
 ![Welcome Dashboard](Screenshots/Screenshot4.png)
 
 ### Go to dashboard or Log-out page
+
 ![Go to dashboard or Log-out page](Screenshots/Screenshot5.png)
 
 ---
