@@ -6,7 +6,7 @@ package Project;
 import java.sql.*;
 /**
  *
- * @author hinab
+ * @author vignesh
  */
 public class ConnectionProvider {
     public static Connection getCon()
